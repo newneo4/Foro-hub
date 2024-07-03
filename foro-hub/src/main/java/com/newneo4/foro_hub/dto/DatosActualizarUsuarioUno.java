@@ -1,4 +1,4 @@
-package com.raccon.foro_raccon_alura_hub.dto;
+package com.newneo4.foro_hub.dto;
 
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Size;

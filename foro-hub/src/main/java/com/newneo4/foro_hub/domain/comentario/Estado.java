@@ -1,4 +1,4 @@
-package com.raccon.foro_raccon_alura_hub.domain.comentario;
+package com.newneo4.foro_hub.domain.comentario;
 
 public enum Estado {
     ENVIADO,

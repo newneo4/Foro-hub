@@ -1,9 +1,9 @@
-package com.raccon.foro_raccon_alura_hub.service;
+package com.newneo4.foro_hub.service;
 
-import com.raccon.foro_raccon_alura_hub.domain.comentario.Comentario;
-import com.raccon.foro_raccon_alura_hub.domain.comentario.DatosRegistroComentario;
-import com.raccon.foro_raccon_alura_hub.repository.ComentarioRepository;
-import com.raccon.foro_raccon_alura_hub.repository.UsuarioUnoRepository;
+import com.newneo4.foro_hub.domain.comentario.Comentario;
+import com.newneo4.foro_hub.domain.comentario.DatosRegistroComentario;
+import com.newneo4.foro_hub.repository.ComentarioRepository;
+import com.newneo4.foro_hub.repository.UsuarioUnoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

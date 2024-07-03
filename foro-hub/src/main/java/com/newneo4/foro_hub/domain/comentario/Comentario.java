@@ -1,6 +1,6 @@
-package com.raccon.foro_raccon_alura_hub.domain.comentario;
+package com.newneo4.foro_hub.domain.comentario;
 
-import com.raccon.foro_raccon_alura_hub.usuarios.UsuarioUno;
+import com.newneo4.foro_hub.usuarios.UsuarioUno;
 import jakarta.persistence.*;
 import lombok.*;
 

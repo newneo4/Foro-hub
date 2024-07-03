@@ -1,6 +1,6 @@
-package com.raccon.foro_raccon_alura_hub.dto;
+package com.newneo4.foro_hub.dto;
 
-import com.raccon.foro_raccon_alura_hub.usuarios.UsuarioUno;
+import com.newneo4.foro_hub.usuarios.UsuarioUno;
 
 public record DatosListadoUsuarioUno(
 

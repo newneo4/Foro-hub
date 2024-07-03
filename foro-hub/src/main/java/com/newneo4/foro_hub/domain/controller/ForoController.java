@@ -1,13 +1,13 @@
-package com.raccon.foro_raccon_alura_hub.domain.controller;
+package com.newneo4.foro_hub.domain.controller;
 
-import com.raccon.foro_raccon_alura_hub.domain.comentario.Comentario;
-import com.raccon.foro_raccon_alura_hub.dto.DatosListadoUsuarioUno;
-import com.raccon.foro_raccon_alura_hub.dto.DatosRegistroUsuarioUno;
-import com.raccon.foro_raccon_alura_hub.dto.DatosActualizarUsuarioUno;
-import com.raccon.foro_raccon_alura_hub.domain.comentario.DatosRegistroComentario;
-import com.raccon.foro_raccon_alura_hub.repository.UsuarioUnoRepository;
-import com.raccon.foro_raccon_alura_hub.repository.ComentarioRepository;
-import com.raccon.foro_raccon_alura_hub.usuarios.UsuarioUno;
+import com.newneo4.foro_hub.domain.comentario.Comentario;
+import com.newneo4.foro_hub.dto.DatosListadoUsuarioUno;
+import com.newneo4.foro_hub.dto.DatosRegistroUsuarioUno;
+import com.newneo4.foro_hub.dto.DatosActualizarUsuarioUno;
+import com.newneo4.foro_hub.domain.comentario.DatosRegistroComentario;
+import com.newneo4.foro_hub.repository.UsuarioUnoRepository;
+import com.newneo4.foro_hub.repository.ComentarioRepository;
+import com.newneo4.foro_hub.usuarios.UsuarioUno;
 import io.swagger.v3.oas.annotations.Operation;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;

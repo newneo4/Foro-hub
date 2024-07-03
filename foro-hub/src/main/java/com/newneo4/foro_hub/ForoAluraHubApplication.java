@@ -1,4 +1,4 @@
-package com.raccon.foro_raccon_alura_hub;
+package com.newneo4.foro_hub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

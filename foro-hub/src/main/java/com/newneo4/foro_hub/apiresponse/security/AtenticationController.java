@@ -1,7 +1,7 @@
-package com.raccon.foro_raccon_alura_hub.apiresponse.security;
+package com.newneo4.foro_hub.apiresponse.security;
 
-import com.raccon.foro_raccon_alura_hub.dto.DatosAutenticacion;
-import com.raccon.foro_raccon_alura_hub.usuarios.UsuarioUno;
+import com.newneo4.foro_hub.dto.DatosAutenticacion;
+import com.newneo4.foro_hub.usuarios.UsuarioUno;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

@@ -1,7 +1,7 @@
-package com.raccon.foro_raccon_alura_hub.apiresponse.security;
+package com.newneo4.foro_hub.apiresponse.security;
 
 
-import com.raccon.foro_raccon_alura_hub.repository.UsuarioUnoRepository;
+import com.newneo4.foro_hub.repository.UsuarioUnoRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

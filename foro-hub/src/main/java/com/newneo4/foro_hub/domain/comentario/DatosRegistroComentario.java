@@ -1,9 +1,9 @@
-package com.raccon.foro_raccon_alura_hub.domain.comentario;
+package com.newneo4.foro_hub.domain.comentario;
 
 import java.time.LocalDate;
 import java.time.chrono.ChronoLocalDateTime;
 
-import com.raccon.foro_raccon_alura_hub.usuarios.UsuarioUno;
+import com.newneo4.foro_hub.usuarios.UsuarioUno;
 import jakarta.validation.constraints.NotNull;
 
 public class DatosRegistroComentario {

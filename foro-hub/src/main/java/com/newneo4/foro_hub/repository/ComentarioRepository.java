@@ -1,6 +1,6 @@
-package com.raccon.foro_raccon_alura_hub.repository;
+package com.newneo4.foro_hub.repository;
 
-import com.raccon.foro_raccon_alura_hub.domain.comentario.Comentario;
+import com.newneo4.foro_hub.domain.comentario.Comentario;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

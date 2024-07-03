@@ -1,4 +1,4 @@
-package com.raccon.foro_raccon_alura_hub;
+package com.newneo4.foro_hub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

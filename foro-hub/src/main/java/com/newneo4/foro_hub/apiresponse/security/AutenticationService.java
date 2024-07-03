@@ -1,6 +1,6 @@
-package com.raccon.foro_raccon_alura_hub.apiresponse.security;
+package com.newneo4.foro_hub.apiresponse.security;
 
-import com.raccon.foro_raccon_alura_hub.repository.UsuarioUnoRepository;
+import com.newneo4.foro_hub.repository.UsuarioUnoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

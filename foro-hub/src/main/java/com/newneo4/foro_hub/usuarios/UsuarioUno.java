@@ -1,8 +1,8 @@
-package com.raccon.foro_raccon_alura_hub.usuarios;
+package com.newneo4.foro_hub.usuarios;
 
-import com.raccon.foro_raccon_alura_hub.dto.DatosActualizarUsuarioUno;
-import com.raccon.foro_raccon_alura_hub.dto.DatosRegistroUsuarioUno;
-import com.raccon.foro_raccon_alura_hub.domain.comentario.Comentario;
+import com.newneo4.foro_hub.dto.DatosActualizarUsuarioUno;
+import com.newneo4.foro_hub.dto.DatosRegistroUsuarioUno;
+import com.newneo4.foro_hub.domain.comentario.Comentario;
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;

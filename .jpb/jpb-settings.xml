@@ -4,7 +4,7 @@
     <persistence-units>
       <persistence-unit name="Default">
         <packages>
-          <package value="com.raccon.foro_raccon_alura_hub" />
+          <package value="com.newneo4.foro_hub" />
         </packages>
       </persistence-unit>
     </persistence-units>
